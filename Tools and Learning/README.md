@@ -12,6 +12,10 @@ Fell free to contribute. Send a **Pull Request**
 * [Shellter](https://shellterlabs.com/pt/)
 * [Hack This](https://www.hackthis.co.uk/)
 
+### Cursos Pagos e Gratuitos
+
+*Under Construction*
+
 ### Blogs
 
 *Under Construction*
