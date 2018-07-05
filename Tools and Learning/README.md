@@ -6,7 +6,7 @@ This project aims to gather tools, tips, articles, groups and anything that may 
 
 Fell free to contribute. Send a **Pull Request**
 
-### Social NetWorks to Learning
+### Social NetWorks to Learning (CTF)
 
 * [Hack The Box](https://www.hackthebox.eu/)
 * [Shellter](https://shellterlabs.com/pt/)
@@ -21,4 +21,14 @@ Fell free to contribute. Send a **Pull Request**
 *Under Construction*
 
 ### TOOL'S
+
 * [Testar Portas Online](https://www.yougetsignal.com/tools/open-ports/)
+
+### Grupos
+
+* [eSecurity Whatsapp](https://chat.whatsapp.com/7O2ai2iIcQj5kAtddvyxD1)
+* [eSecurity Telegram](https://t.me/eSecurityBR)
+
+### Fórum
+
+* [4hatday](http://www.4hatday.com/)
