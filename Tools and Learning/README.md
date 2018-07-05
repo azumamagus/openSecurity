@@ -32,3 +32,7 @@ Fell free to contribute. Send a **Pull Request**
 ### Fórum
 
 * [4hatday](http://www.4hatday.com/)
+
+### Sites
+
+* [Seguridaad Informática](http://www.semecayounexploit.com/)
