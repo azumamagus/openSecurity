@@ -18,7 +18,7 @@ Fell free to contribute. Send a **Pull Request**
 
 ### Blogs
 
-*Under Construction*
+* [Hacking Articles](* [Testar Portas Online](https://www.yougetsignal.com/tools/open-ports/))
 
 ### TOOL'S
 
