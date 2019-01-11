@@ -6,11 +6,26 @@ This project aims to gather tools, tips, articles, groups and anything that may 
 
 Fell free to contribute. Send a **Pull Request**
 
-### Social NetWorks to Learning (CTF)
+### Social NetWorks | CTF's | Test Vuln to Learning
 
 * [Hack The Box](https://www.hackthebox.eu/)
 * [Shellter](https://shellterlabs.com/pt/)
 * [Hack This](https://www.hackthis.co.uk/)
+* [Vulnhub](https://www.vulnhub.com)
+* [Practical Pentest Labs](https://practicalpentestlabs.com)
+* [Labs Wizard Security](https://labs.wizard-security.net)
+* [Pentestlab](https://pentesterlab.com/)
+* [Root-Me](https://www.root-me.org/)
+* [Zenk-Security](https://www.zenk-security.com/epreuves.php)
+* [W3Challs](https://w3challs.com/)
+* [NewbieContest](https://www.newbiecontest.org/)
+* [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+* [Penetration Testing Practice Labs](http://www.amanhardikar.com/mindmaps/Practice.html)
+* [alert(1) to win](https://alf.nu/alert1)
+* [Hacksplaining](https://www.hacksplaining.com/exercises)
+* [Hacker101](https://ctf.hacker101.com)
+* [Academy Hackaflag](https://academy.hackaflag.com.br/)
+* [PentestIT LAB](https://lab.pentestit.ru)
 
 ### Cursos Pagos e Gratuitos
 
